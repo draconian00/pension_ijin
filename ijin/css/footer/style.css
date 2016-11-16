@@ -1,0 +1,30 @@
+span.date {
+  height: 80px;
+  position: relative;
+}
+
+span.date > i {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+span.date >  strong {
+  position: absolute;
+  top: 26px;
+  left: 0px;
+  text-align: center;
+}
+
+.offer {
+  height: 86px !important;
+}
+
+.contact-details > span > i, .contact-details > span > img {
+  margin-top: 10px;
+}
+
+.icon-comment {
+  text-align: center;
+  color: #fff;
+}

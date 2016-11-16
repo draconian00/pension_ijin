@@ -1,0 +1,30 @@
+
+.package-single-detail > p {
+  font-size: 17px;
+  font-weight: 400;
+}
+
+.room-services {
+  padding: 60px 70px !important;
+}
+
+.second-ul {
+  margin-top: 15px;
+  margin-bottom: 50px;
+}
+.second-ul > li {
+  font-size: 17px;
+  width: 100% !important;
+}
+
+.room-specs {
+  padding: 50px 55px;
+}
+
+.name-change {
+  font-size: 25px;
+}
+.room-thumbs .nav li {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

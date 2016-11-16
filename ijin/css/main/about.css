@@ -1,0 +1,12 @@
+.about-comment {
+  height: 500px;
+  background: #fff;
+  padding: 110px 50px 110px 50px; 
+}
+.about-comment > center > img {
+  margin-bottom: 30px;
+}
+
+.a-comment {
+  font-size: 16px;
+}

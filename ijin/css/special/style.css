@@ -1,0 +1,23 @@
+.gallery-overlay > span {
+  font-size: 17px;
+  margin-top: 15px;
+}
+
+.gallery-overlay > h5 {
+  font-size: 18px;
+}
+
+.gallery-overlay > p {
+  font-size: 15px;
+  color: #1593D0;
+  cursor: pointer;
+}
+
+.gallery-name > span {
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+.gallery-name > h4 {
+
+}
